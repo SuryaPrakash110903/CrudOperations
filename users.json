@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John",
+      "email": "jhon@gmail.com",
+      "phone": "1234567890"
+    },
+    {
+      "id": "3",
+      "name": "Bollam",
+      "email": "bollam@gmail.com",
+      "phone": "57766231238"
+    },
+    {
+      "id": "3a33",
+      "name": "Aravind",
+      "email": "2211cs010077@mallareddyuniversity.ac.in",
+      "phone": "6281432175"
+    }
+  ]
+}
